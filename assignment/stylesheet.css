@@ -5,6 +5,35 @@ body {
     margin: 0px;
 }
 
+
+h1 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-family: Tisa, Helvetica, sans-serif;
+    font-size: 56px;
+    opacity: 0.95;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-family: Tisa, Helvetica, sans-serif;
+    font-size: 56px;
+    opacity: 0.95;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+/*
 header{
     color: white;
     background-color: purple;
@@ -13,8 +42,22 @@ header{
     font-size: 38px;
     opacity: 0.95;
 }
+*/
 
+
+/*
 main{
+    color: black;
+    background-color: lightgray;
+    text-align: center;
+    font-family: Tisa, Helvetica, sans-serif;
+    font-size: 38px;
+    opacity: 0.95;
+    padding: 1em;
+}
+*/
+/* Class selector */
+p.mainParagraph{
     color: black;
     background-color: lightgray;
     text-align: center;
