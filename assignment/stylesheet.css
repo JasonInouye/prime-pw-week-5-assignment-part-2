@@ -1,7 +1,7 @@
 body {
     background-image: url("/images/record.png");
-    background-repeat: repeat;
-    /* background-position: top right ; */
+    background-repeat: round;
+    background-position: top right ;
     margin: 0px;
 }
 
